@@ -215,6 +215,7 @@ body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 500px;
     position: relative;bottom: 350px;
+    color: white;
 }
 
 .info {
@@ -222,6 +223,7 @@ body {
     font-size: 20px;
     position: relative;bottom: 320px;
     font-family:monospace;
+    color: white;
 }
 
 .second {
@@ -229,6 +231,7 @@ body {
     font-size: 20px;
     position: relative;bottom: 300px;
     font-family:monospace;
+    color: white;
 }
 
 .hobby {
@@ -236,6 +239,7 @@ body {
     font-size: 20px;
     position: relative;bottom: 280px;
     font-family:monospace;
+    color: white;
 }
 
 .html- i {
@@ -465,6 +469,7 @@ ul {
 .logo {
     text-align: center;
     font-size: 3em;
+    color: white;
 }
 
 .logo span {
